@@ -15,6 +15,7 @@ Melanoma can be detected by changes in a mole or pigmented region of the skin's 
 
 
 #RingWorms
+
 Tinea is a common fungal illness that affects the skin, nails, and scalp. It is also known as dermatophytosis. It is caused by dermatophytes, a kind of fungus that thrives in warm, damp settings. Tinea infections are extremely infectious and can be spread by direct contact with sick people, animals, or contaminated things.
 Tinea symptoms may include:
 Itching, redness, and burning of the afflicted skin
